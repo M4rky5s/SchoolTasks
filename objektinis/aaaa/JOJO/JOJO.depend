@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645649003 source:c:\users\37063\desktop\c++\objektinis\aaaa\jojo\2 uzduotis galutinis.cpp
+	<iostream>
+	"2 uzduotis galutinis.h"
+
+1645649003 c:\users\37063\desktop\c++\objektinis\aaaa\jojo\2 uzduotis galutinis.h
+	<iostream>
+	<vector>
+
