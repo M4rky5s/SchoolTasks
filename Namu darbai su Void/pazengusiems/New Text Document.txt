@@ -1,0 +1,44 @@
+for(int j=1; j<=1; j++)
+    {
+        sum = 0;
+        sum2 = 0;
+        sk1 = sk % 10;
+        if(sk1 % 2 == 0)
+        {
+            sum = sum + sk1;
+        }
+        else sum2 = sum2 + sk1;
+        sk2 = sk / 10 % 10;
+        if(sk2 % 2 == 0)
+        {
+            sum = sum + sk2;
+        }
+        else sum2 = sum2 + sk2;
+        sk3 = sk / 100 % 10;
+        if(sk3 % 2 == 0)
+        {
+            sum = sum + sk3;
+        }
+        else sum2 = sum2 + sk3;
+        sk4 = sk / 1000 % 10;
+        if(sk4 % 2 == 0)
+        {
+            sum = sum + sk4;
+        }
+        else sum2 = sum2 + sk4;
+        sk5 = sk / 10000 % 10;
+        if(sk5 % 2 == 0)
+        {
+            sum = sum + sk5;
+        }
+        else sum2 = sum2 + sk5;
+        sk6 = sk / 100000 % 10;
+        if(sk6 % 2 == 0)
+        {
+            sum = sum + sk6;
+        }
+        else sum2 = sum2 + sk6;
+        out << sum << endl;
+        out << sum2 << endl;
+    }
+}

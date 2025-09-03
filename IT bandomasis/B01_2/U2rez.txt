@@ -1,0 +1,5 @@
+miesto parkas        50
+miesto parkas        45
+paupys               40
+paupys               30
+paupys               20

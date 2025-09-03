@@ -1,0 +1,1 @@
+Netrukus tikimės pereiti prie automatizuoto skaičiavimo pagal pirminio šaltinio duomenis.

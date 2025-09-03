@@ -1,0 +1,5 @@
+Antanas 55
+Martynas 70
+Jurgis 55
+Zigmas 68
+Arvydas 75
